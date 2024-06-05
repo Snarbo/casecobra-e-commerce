@@ -60,7 +60,6 @@ export default function Home() {
               </div>
             </div>
           </div>
-
           <div className="col-span-full lg:col-span-1 w-full flex justify-center px-8 sm:px-16 md:px-0 mt-32 lg:mx-0 lg:mt-20 h-fit">
             <div className="relative md:max-w-xl">
               <img className="absolute w-40 lg:w-52 left-56 -top-20 select-none hidden sm:block lg:hidden xl:block" src="/your-image.png" />
@@ -70,7 +69,6 @@ export default function Home() {
           </div>
         </MaxWidthWrapper>
       </section>
-
       <section className="bg-slate-100 py-24">
         <MaxWidthWrapper className="flex flex-col items-center gap-16 sm:gap-32">
           <div className="flex flex-col lg:flex-row items-center gap-4 sm:gap-6">
@@ -83,7 +81,6 @@ export default function Home() {
             </h2>
             <img className="w-24 order-0 lg:order-2" src="/snake-2.png" />
           </div>
-
           <div className="mx-auto grid max-w-2xl grid-cols-1 px-4 lg:mx-0 lg:max-w-none lg:grid-cols-2 gap-y-16">
             <div className="flex flex-auto flex-col gap-4 lg:pr-8 xl:pr-20">
               <div className="flex gap-0.5 mb-2">
