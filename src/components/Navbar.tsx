@@ -35,7 +35,7 @@ const Navbar = async () => {
                       size: 'sm',
                       variant: 'ghost',
                     })}
-                    href="/api/auth/logout"
+                    href="/dashboard"
                   >
                     Dashboard ✨
                   </Link>
@@ -67,7 +67,7 @@ const Navbar = async () => {
                     size: 'sm',
                     variant: 'ghost',
                   })}
-                  href="/configure/login"
+                  href="/api/auth/login"
                 >
                   Login
                 </Link>
